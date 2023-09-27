@@ -14,7 +14,7 @@ if os.path.exists(file_name):
 else:
     data = []
 
-i = 2
+i = 15
 while i != 0:
     word = input("Enter a word: ")
     meaning = input("Enter the meaning of the word: ")

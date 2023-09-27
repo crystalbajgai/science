@@ -22,5 +22,13 @@
     {
         "word": "Controlled Variable",
         "meaning": "The variables that a researcher tries to hold constant throughout the experiment."
+    },
+    {
+        "word": "Refraction Of Light",
+        "meaning": "The bending of light when passing from one optical medium to another optical medium."
+    },
+    {
+        "word": "Main Cause of Bending Of Light",
+        "meaning": "Change in velocity of light on passing from one optical medium to another optical medium."
     }
 ]
